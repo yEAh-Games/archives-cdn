@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Ethan Robinsus" by Yee#2462
+title: Fanart / "Ethan Robinsus" by Yee#2462
 date: 2022-04-05 20:54
 author: yeahgamesdevs
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: STOCK MARKET: About/FAQs
+title: STOCK MARKET / About/FAQs
 date: 2022-07-15 12:09
 author: yeahgamesdevs
 comments: true

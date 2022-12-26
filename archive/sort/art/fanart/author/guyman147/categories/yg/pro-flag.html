@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Pro flag of yEAh games" by Guyman147#0719
+title: Fanart / "Pro flag of yEAh games" by Guyman147#0719
 date: 2022-06-26 21:14
 author: yeahgamesdevs
 comments: true

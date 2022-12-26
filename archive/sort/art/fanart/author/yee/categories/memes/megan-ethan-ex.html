@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Mega Ethan EX" by Yee#2462
+title: Fanart / "Mega Ethan EX" by Yee#2462
 date: 2022-04-06 07:08
 author: yeahgamesdevs
 comments: true
