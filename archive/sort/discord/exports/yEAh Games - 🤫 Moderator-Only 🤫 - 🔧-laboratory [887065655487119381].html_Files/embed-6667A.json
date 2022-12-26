@@ -1,0 +1,41 @@
+{
+  "footer": {
+    "text": "Page 1/2"
+  },
+  "thumbnail": {
+    "url": "https://cdn.discordapp.com/attachments/749006528182353988/779172326699958292/snek.png",
+    "proxy_url": "https://media.discordapp.net/attachments/749006528182353988/779172326699958292/snek.png",
+    "width": 512,
+    "height": 512
+  },
+  "author": {
+    "name": "COMMANDS",
+    "icon_url": "https://cdn.discordapp.com/attachments/749006528182353988/779172326699958292/snek.png",
+    "proxy_icon_url": "https://media.discordapp.net/attachments/749006528182353988/779172326699958292/snek.png"
+  },
+  "fields": [
+    {
+      "name": "ℹ Help",
+      "value": "`about`, `defaulthelp`, `friends`, `help`, `oldhelp`",
+      "inline": false
+    },
+    {
+      "name": "🎢 Fun",
+      "value": "`applestoapples`, `asciitext`, `battle`, `bookshelf`, `bored`, `eightball`, `facts`, `gameoflife`, `gameoflifeguide`, `gtn`, `gyn`, `hack`, `hangman`, `kingofthehill`, `library`, `quiz`, `rate`, `reddit`, `rps`, `russianroulette`, `showerthoughts`, `silencecontest`, `summon`, `swordfight`",
+      "inline": false
+    },
+    {
+      "name": "⚙ Utility",
+      "value": "`ban`, `clear`, `coinflip`, `createemoji`, `dice`, `editsnipe`, `embed`, `empty`, `escapemarkdown`, `giveaway`, `inviteinfo`, `kick`, `leaveserver`, `mention`, `nick`, `role`, `rules`, `score`, `snipe`, `texttofile`, `timer`, `timezoneconvert`, `togglereaction`, `unban`, `userinfo`, `weatherinfo`, `wolfram`",
+      "inline": false
+    },
+    {
+      "name": "🖼 Images",
+      "value": "`achievement`, `ascii`, `bird`, `blackandwhite`, `blur`, `cat`, `clean`, `dissolve`, `dog`, `duck`, `edges`, `emboss`, `fox`, `frame`, `glitch`, `grayscale`, `invert`, `lowquality`, `mandelbrot`, `meme`, `noise`, `owl`, `posterize`, `profile`, `redpanda`, `snake`, `solarize`, `webcat`, `wide`, `xkcd`",
+      "inline": false
+    }
+  ],
+  "color": 373854,
+  "type": "rich",
+  "description": "**First time using Serpynth? See `syabout` for an introduction!**"
+}

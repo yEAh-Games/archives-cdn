@@ -1,0 +1,158 @@
+{
+  "content": "**Please read and agree to these server rules before using our Discord services. **Violation of these rules may result in moderation action being taken against you. \n\nThese are only the rules for our Discord server; to find the entire list, look at the bottom of this message.\n\nNote that starting August 28th 2022, under *YG Moderation act 2022-08-28*, members are required to follow and moderators are required to enforce these rules. \n\nThe level of enforcement is decided based on an evaluation by the moderators there at the time, at their discretion. However, not enforcing rules can lead to a violation of the above act. If you believe action taken against you was unfair, please talk to another moderator or file a claim in the Yourt.\n\nThe Yourt has the final say on all action and, if requested, all action will be reviewed. Note that if someone is violating the rules, you can report it at the Yourt as well.\n\n━━\n\n**CORRECTION**\nThe action will be corrected.\n\n**REMINDER**\nNo punishment will occur; a reminder will be issued.\n\n**WARNING**\nThere are 5 levels of `Warning`. After reaching the 5th level, it is up to the moderators to decide if a `Kick/Ban` should be issued. You will be given the `Prisoner` role once you hit 5, either for a set amount of time/until the moderators reach a consensus. \n\n**TIME-OUT**\nAn official Discord feature which stops the user from talking and reacting for a set amount of time. Usually, this will only be used for very light cases for a few minutes in order to help stop the problem.\n\n**PRISONER**\nThis role stops removes all your permissions in the server and puts you at the bottom of the hierarchy. You will not be able to do anything until this role has been removed. Placement of this role can either be as a punishment, or for when your actions are still being reviewed. You can always access the Yourt.\n\n**KICK/BAN**\nAt moderators' discretion. You will either be kicked or banned from our server.\n\n━━\n\n**Updated for: `30th August, 2022` — `2.0`**",
+  "embeds": [
+    {
+      "title": "No spam or overly self-promoting/advertising",
+      "url": "https://tiny.one/lawbook",
+      "color": 16729927,
+      "fields": [
+        {
+          "name": "**No spamming or flooding channels. **",
+          "value": "Spam means posting a lot of content at once, and flooding, meaning posting the same thing multiple times to fill the screen. Additionally, please keep self-promotion/ads to the proper channels and/or at a minimum."
+        },
+        {
+          "name": "**  ↳ Enforced by**:",
+          "value": "*Moderators' discretion* — `Warning` (if it is a small amount); `Time-out` (if it continues to happen/there is too much); `Kick/ban` (in severe cases; if it happens repeatedly/happening as part of a raid)"
+        }
+      ],
+      "author": {
+        "name": "Rule 1 • yEAh Games",
+        "url": "https://yeahgames.pro",
+        "icon_url": "https://cdn.discordapp.com/avatars/892883621076156416/a0a70d795d8ae95ce9d44a0399de5999.webp?size=240"
+      },
+      "footer": {
+        "text": "1/10 — Discord server rules"
+      }
+    },
+    {
+      "title": "Follow server standards/templates",
+      "url": "https://tiny.one/lawbook",
+      "color": 16729927,
+      "fields": [
+        {
+          "name": "This includes, but is not limited to:",
+          "value": "​"
+        },
+        {
+          "name": "**Nicknames**",
+          "value": "Please use the proper nickname template. One will be assigned to you automatically when you joined, but you are required to fill it out yourself. The template is \"IRL Name (custom nickname)\". If you are not comfortable with using your IRL name, please talk to a moderator. It is not an option to not follow this template."
+        },
+        {
+          "name": "​  ↳ Enforced by:",
+          "value": "`Correction`, `Reminder` (if it happens once or twice); `Correction` ,`Warning`, `Demotion` (privilege to change nickname will be removed; if the rule is repeatedly violated)\n​"
+        },
+        {
+          "name": "**Use each channel for its desired purpose.**",
+          "value": "Each channel/category as a purpose. Please use them for that purpose, not for something else. You can see their purpose in the description. If a desired channel does not exist, contact the moderators or use <#887857266005532692> instead."
+        },
+        {
+          "name": "​  **↳ Enforced by:**",
+          "value": "`Reminder` (one-or-two time occurrence); `Time-out`, `Warning` (if it happens repeatedly and reminders are ignored) \n​"
+        },
+        {
+          "name": "**Threads**",
+          "value": "It is required for members, when adding \"posts\" to certain channels where there may be a lot of posts that members would like to scroll through & chat at the same time (e.g., <#906923782504087602>, <#977568140944867358>, etc.), that you create a thread attached to your post for members to chat in about that post."
+        },
+        {
+          "name": "​  **↳ Enforced by:**",
+          "value": "*Moderators' discretion* — `Reminder` (this rule will only be enforced after a general threshold of more than 5 messages is passed); `Time-out` (if moderators are ignored)​\n​"
+        },
+        {
+          "name": "**Alts**",
+          "value": "Alternate accounts are allowed in the server, unless they are used for the purposes of evading moderation action/rules (note that an alt of a banned member can join, only for the purposes of appealing the ban). However, it is required that all alts have the <@&892893989953474581> role. To gain this role, contact a moderator or visit the Roles channel to add it automatically."
+        },
+        {
+          "name": "​  **↳ Enforced by:**",
+          "value": "`Correction`, `Reminder` (if an account found to be an alt and does not have the role accidentally); `Prisoner` (if an account is suspected to be an alt but is hiding it; until issue is resolved; if account is an alt, it will be given a warning); `Kick/Ban` (if an alt joined for the purposes of evading or repeatedly refuses to be an alt )\n​"
+        },
+        {
+          "name": "**Other**",
+          "value": "Certain channels/roles/etc. may have specific standards. Please make sure to follow them."
+        },
+        {
+          "name": "​  **↳ Enforced by:**",
+          "value": "`Varies`"
+        }
+      ],
+      "author": {
+        "name": "Rule 2 • yEAh Games",
+        "url": "https://yeahgames.pro",
+        "icon_url": "https://cdn.discordapp.com/avatars/892883621076156416/a0a70d795d8ae95ce9d44a0399de5999.webp?size=240"
+      },
+      "footer": {
+        "text": "2/10 — Discord server rules"
+      }
+    },
+    {
+      "title": "Follow content guidelines",
+      "url": "https://tiny.one/lawbook",
+      "color": 16729927,
+      "fields": [
+        {
+          "name": "**No NSFW (age-restricted) content**",
+          "value": "This includes no posting of NSFW (age-restricted) content or graphic material unless otherwise noted. This means no naked, half-naked stuff or violence/gore."
+        },
+        {
+          "name": "**  ↳ Enforced by**:",
+          "value": "Enforced by: `Time-out`, `Warning`, `Correction` (you will be timed out for a minimum of 10 minutes automatically; message will be deleted); `Prisoner` (if happens multiple times); `Kick/Ban` (if it continues to happen even after having multiple warnings/prisoners)"
+        }
+      ],
+      "author": {
+        "name": "Rule 3 • yEAh Games",
+        "url": "https://yeahgames.pro",
+        "icon_url": "https://cdn.discordapp.com/avatars/892883621076156416/a0a70d795d8ae95ce9d44a0399de5999.webp?size=240"
+      },
+      "footer": {
+        "text": "3/10 — Discord server rules"
+      }
+    },
+    {
+      "title": "No mass pings or \"ghost\" pings",
+      "url": "https://tiny.one/lawbook",
+      "color": 16729927,
+      "fields": [
+        {
+          "name": "**No pinging of any roles or excessive pings**",
+          "value": "No pinging of any roles or excessive pings of other server members unless allowed. This includes \"ghost-pings\" (pinging someone and deleting it.) Unless it has been allowed or is necessary, please do not use @everyone and @​here; contact the moderators instead."
+        },
+        {
+          "name": "**  ↳ Enforced by**:",
+          "value": "*Moderators' discretion* — `Time-out`, `Warning` (automatically for first time); `Prisoner` (after multiple violations); `Kick/Ban` (after multiple severe violations)"
+        }
+      ],
+      "author": {
+        "name": "Rule 4 • yEAh Games",
+        "url": "https://yeahgames.pro",
+        "icon_url": "https://cdn.discordapp.com/avatars/892883621076156416/a0a70d795d8ae95ce9d44a0399de5999.webp?size=240"
+      },
+      "footer": {
+        "text": "4/10 — Discord server rules"
+      }
+    },
+    {
+      "title": "Civil discussion policy",
+      "url": "https://tiny.one/lawbook",
+      "color": 16729927,
+      "fields": [
+        {
+          "name": "**Discussions should be kept civil**",
+          "value": "Note that this is different from our harassment/bullying rule. Discussions should be kept civil (unless they are occurring in proper channels; e.g. debates). Respect others' opinions and don't get excessively mad or attack others."
+        },
+        {
+          "name": "**  ↳ Enforced by**:",
+          "value": "*Moderators' discretion* — `Reminder` (light violation, stops after); `Time-out`, `Warning` (heavier violation/continues after reminder/s); `Prisoner` (after severe repeated violations); `Kick/Ban` (only in extreme, repeated, severe cases where the member also violates our harassment/bullying policy)"
+        }
+      ],
+      "author": {
+        "name": "Rule 5 • yEAh Games",
+        "url": "https://yeahgames.pro",
+        "icon_url": "https://cdn.discordapp.com/avatars/892883621076156416/a0a70d795d8ae95ce9d44a0399de5999.webp?size=240"
+      },
+      "footer": {
+        "text": "5/10 — Discord server rules"
+      }
+    }
+  ],
+  "attachments": []
+}
+
