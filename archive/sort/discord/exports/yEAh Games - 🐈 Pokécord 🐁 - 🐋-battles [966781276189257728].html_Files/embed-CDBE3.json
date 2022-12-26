@@ -1,0 +1,81 @@
+{
+  "author": {
+    "name": "A GUIDE TO NOTHING",
+    "url": "http://www.e-try.com/black.htm"
+  },
+  "fields": [
+    {
+      "name": "Space",
+      "value": "` `\nThe space won't actually allow you to send an empty message. It's still a classic though.",
+      "inline": true
+    },
+    {
+      "name": "Empty Italics",
+      "value": "`_ _`\nNormally, two underscores can be used to create indented text, but here they can be used to send just a space.",
+      "inline": true
+    },
+    {
+      "name": "Empty Bold",
+      "value": "`** **`\nWorks similarly to the empty italics.",
+      "inline": true
+    },
+    {
+      "name": "0-Width Space (U+200B)",
+      "value": "`​`\nTruly empty. Doesn't even have any width.",
+      "inline": true
+    },
+    {
+      "name": "Right-To-Left Mark (U+200F)",
+      "value": "`‏`\nLike the 0-Width Space, it almost has no width.",
+      "inline": true
+    },
+    {
+      "name": "Braille Pattern Blank (U+2800)",
+      "value": "`⠀`\nThe blank braille pattern.",
+      "inline": true
+    },
+    {
+      "name": "Soft Hyphen (U+00AD)",
+      "value": "`­`\nCan be used to tell a computer to break a work across lines.",
+      "inline": true
+    },
+    {
+      "name": "Arabic Letter Mark (U+061C)",
+      "value": "`؜`\nWorks in strange ways.",
+      "inline": true
+    },
+    {
+      "name": "Hangul Jungseong Filler (U+1160)",
+      "value": "`ᅠ`\nThe widest invisible character here.",
+      "inline": true
+    },
+    {
+      "name": "Combining Grapheme Joiner (U+034F)",
+      "value": "`͏`\nAlso 0-width.",
+      "inline": true
+    },
+    {
+      "name": "<Nameless Character> (U+1CBC)",
+      "value": "`᲼`\nCan be used to get yourself an invisible nickname.",
+      "inline": true
+    },
+    {
+      "name": "Transparent Images",
+      "value": "`https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png`\nIs actually a 1x1 transparent image.",
+      "inline": true
+    },
+    {
+      "name": "Transparent Emojis",
+      "value": "<:tbg:784833368789221407>\nYou can upload empty transparent emojis to your servers. You won't be able to copy-paste this one.",
+      "inline": true
+    },
+    {
+      "name": "Bots",
+      "value": "With the Manage\nMessages permissions, you\ncan make a bot send\nan embed and by clicking the X\nnear the top right corner of\nthe embed, you can\nactually remove it.",
+      "inline": true
+    }
+  ],
+  "color": 3092790,
+  "type": "rich",
+  "description": "You may copy-paste the characters and character sequences by double-clicking or\ntriple-clicking, or just type them if your keyboard has them.\nKeep in mind that you may be able to see the characters, depending on your OS."
+}
