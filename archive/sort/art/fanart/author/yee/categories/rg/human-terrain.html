@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Human Terrain" by Yee#2462
+title: Fanart / "Human Terrain" by Yee#2462
 date: 2022-04-07 07:35
 author: yeahgamesdevs
 comments: true

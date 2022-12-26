@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QOTD for 04/04/2022 (3/3): Additional restricted info
+title: QOTD for 04/04/2022 (3/3) / Additional restricted info
 date: 2022-04-04 17:55
 author: yeahgamesdevs
 comments: true

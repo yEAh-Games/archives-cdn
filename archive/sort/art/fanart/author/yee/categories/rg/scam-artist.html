@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Scam Artist" by Yee#2462
+title: Fanart / "Scam Artist" by Yee#2462
 date: 2022-04-06 07:50
 author: yeahgamesdevs
 comments: true

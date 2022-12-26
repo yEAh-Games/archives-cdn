@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Ripoff Mudkip" by Yee#2462
+title: Fanart / "Ripoff Mudkip" by Yee#2462
 date: 2022-04-06 07:14
 author: yeahgamesdevs
 comments: true

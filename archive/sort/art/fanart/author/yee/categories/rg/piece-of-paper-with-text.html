@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanart: "Piece of Paper with Text" by Yee#2462
+title: Fanart / "Piece of Paper with Text" by Yee#2462
 date: 2022-04-04 20:46
 author: yeahgamesdevs
 comments: true
