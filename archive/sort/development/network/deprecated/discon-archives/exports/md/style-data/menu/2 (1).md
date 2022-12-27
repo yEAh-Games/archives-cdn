@@ -1,0 +1,9 @@
+---
+layout: wp_global_styles
+title: Custom Styles
+date: 2022-04-01 20:12
+author: yeahgamesdevs
+comments: true
+categories: [rowling]
+---
+{"version":2,"isGlobalStylesUserThemeJSON":true}
