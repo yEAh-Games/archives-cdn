@@ -1,92 +1,30 @@
-
-
-<html><head> 
-    <style>
-        a {
-      color: black;
-      text-decoration: none;
-    }
-    
-    a:hover {
-      text-decoration: none;
-      color: inherit;
-    }
-        
-        </style>   
-    
-    <title>Index of /run</title></head><body bgcolor="white">    <h1 id="current-path"></h1>    <hr>    <pre><a style="color: blue; text-decoration: underline;" href="..">..</a><br>   </pre>   <hr></body></html>
-
-
+<!DOCTYPE html>
 <html>
-    <title></title>
-  <body>
-
-
-         
-         
-         
-         
-         <script>
-            // Get the current URL of the page
-            var currentUrl = window.location.href;
-      
-            // Get the path of the current directory
-            var currentPath = currentUrl.substring(currentUrl.indexOf(window.location.host) + window.location.host.length);
-      
-            // Remove any query parameters or hash fragments from the URL
-            currentPath = currentPath.split("?")[0];
-            currentPath = currentPath.split("#")[0];
-      
-            // Split the path into an array of directory names
-            var pathArray = currentPath.split("/");
-      
-            // Remove the first (empty) and last (current directory) elements from the array
-            pathArray = pathArray.slice(1, -1);
-      
-            // Build the full path of the current directory, including any parent directories
-            var fullPathTitle = "";
-            for (var i = 0; i < pathArray.length; i++) {
-              fullPathTitle += pathArray[i] + "/";
-            }
-      
-            // Add the name of the current directory to the path
-            fullPathTitle += pathArray[pathArray.length - 1];
-      
-            // Set the title of the page to the full path of the current directory
-            var pageTitle = document.getElementsByTagName("title")[0];
-            pageTitle.innerHTML = "Index of " + fullPathTitle;
-          </script>
-
-<script>
-    
-// Get the current URL of the page
-        var currentUrl = window.location.href;
-      
-        // Get the path of the current directory
-        var currentPath = currentUrl.substring(currentUrl.indexOf(window.location.host) + window.location.host.length);
-      
-        // Remove any query parameters or hash fragments from the URL
-        currentPath = currentPath.split("?")[0];
-        currentPath = currentPath.split("#")[0];
-      
-        // Split the path into an array of directory names
-        var pathArray = currentPath.split("/");
-      
-        // Remove the first (empty) and last (current directory) elements from the array
-        pathArray = pathArray.slice(1, -1);
-      
-        // Build the full path of the current directory, including any parent directories
-        var fullPath = "";
-        var pathLink = "";
-        for (var i = 0; i < pathArray.length; i++) {
-          pathLink += "/" + pathArray[i];
-          fullPath += "<a href='" + pathLink + "/'>" + pathArray[i] + "</a>/";
-        }
-      
-        // Add the link to the current directory
-        fullPath += "<a href='" + currentPath + "'>" + pathArray[pathArray.length - 1] + "</a>/";
-      
-        // Set the content of the 'current-path' div to the full path of the current directory
-        var currentPathDiv = document.getElementById("current-path");
-        currentPathDiv.innerHTML = "Index of " + fullPath;
-      </script>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Error 404 (Not Found)!!1</title>
+<link rel="icon" type="image/x-icon" href="https://cdn.yeahgames.net/img/branding/logos/default/logo.png">
+<style>
+    html, body {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+    }
+    /* Set the iframe element to cover the entire screen */
+    iframe {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      border: none;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+<iframe allowfullscreen src="https://www.yeahgames.net/errors/http/404/cloud"></iframe>
+</body>
+</html>
