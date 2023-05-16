@@ -32,6 +32,8 @@ import time
 version = "1.1"
 
 header = (
+    "---\n"
+    "---\n"
     "<html>"
     "<head>{{% include gtag.html %}}"
     "    <title>Index of {}</title>"
