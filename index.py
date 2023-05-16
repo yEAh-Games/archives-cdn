@@ -32,16 +32,16 @@ import time
 version = "1.1"
 
 header = (
-"<html>"
-"<head>"
-"{% include gtag.html %}"
-"    <title>Index of {}</title>"
-"</head>"
-"<body bgcolor=\"white\">"
-"    <h1>Index of {}</h1>"
-"    <hr>"
-"    <pre>"
+    "<html>"
+    "<head>{{% include gtag.html %}}"
+    "    <title>Index of {}</title>"
+    "</head>"
+    "<body bgcolor=\"white\">"
+    "    <h1>Index of {}</h1>"
+    "    <hr>"
+    "    <pre>"
 )
+
 
 footer = (
 "   </pre>"
