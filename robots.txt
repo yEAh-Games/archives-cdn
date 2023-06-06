@@ -22,3 +22,5 @@ Disallow: /_config.yml
 Disallow: /jekyll-theme-primer.gemspec
 Disallow: /package-lock.json
 Disallow: /package.json
+Disallow: /assets
+Disallow: /assets/*
