@@ -1,4 +1,4 @@
-Sitemap: https://archive1.yeahgames.net/sitemap
+Sitemap: https://archive1.yeahgames.net/sitemap.xml
 
 User-agent: *
 Disallow: /.git/*
