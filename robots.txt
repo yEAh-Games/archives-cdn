@@ -6,6 +6,13 @@ Disallow: /.github/*
 Disallow: /_includes/*
 Disallow: /_layouts/*
 Disallow: /_sass/*
+Disallow: /.git
+Disallow: /.github
+Disallow: /_includes
+Disallow: /_layouts
+Disallow: /_sass
+Disallow: /script/*
+Disallow: /script
 Disallow: /.gitignore
 Disallow: /.rubocop.yml
 Disallow: /.travis.yml
