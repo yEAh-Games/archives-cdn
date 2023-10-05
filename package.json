@@ -7,7 +7,7 @@
     "test": "script/cibuild"
   },
   "author": "Ben Balter",
-  "license": "MIT",
+  "license": "MIT ",
   "dependencies": {
     "primer-base": "^1.9.2",
     "primer-layout": "^1.6.2",
