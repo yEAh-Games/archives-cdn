@@ -24,3 +24,6 @@ Disallow: /package-lock.json
 Disallow: /package.json
 Disallow: /assets
 Disallow: /assets/*
+Disallow: /old/archive/view/sort/quotes/*
+Disallow: /old/archive/view/sort/quotes
+Disallow: /old/archive/view/sort/quotes/
